@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "T9UFssysxxnABiLZlJO+2qzz0U7hKPFUVrlXPpQsB6s=",
+  "Source": "PokemonTcg.Api",
+  "BasePath": "_content/PokemonTcg.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
